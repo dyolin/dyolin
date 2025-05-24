@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cindy Valencia</h1>
-<h3 align="center">3rd year University Student</h3>
 
 - 🔭 I’m currently working on **iOS NewsApp**
 
-- 🌱 I’m currently learning **JakartaEE, iOS Mobile Development**
+- 🌱 I’m currently learning **JakartaEE and iOS Mobile Development**
 
 - 📫 How to reach me **cindyvalencia1588@gmail.com**
 
