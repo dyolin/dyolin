@@ -6,7 +6,9 @@
 
 📫 How to reach me **cindyvalencia1588@gmail.com**
 
-Know about my experiences [https://www.canva.com/design/DAGoU1uNkVA/OBIb2NNUjJv9k2JMyc_jKw/view?utm_content=DAGoU1uNkVA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5956eb5021](https://www.canva.com/design/DAGoU1uNkVA/OBIb2NNUjJv9k2JMyc_jKw/view?utm_content=DAGoU1uNkVA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5956eb5021)
+👨‍💻 My best projects are available at <a https://cindyvalencia-dyolin.my.canva.site/>My Works</a>
+
+📄 Know about my experiences <a https://www.canva.com/design/DAGoU1uNkVA/OBIb2NNUjJv9k2JMyc_jKw/view?utm_content=DAGoU1uNkVA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5956eb5021>My CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
