@@ -6,6 +6,8 @@
 
 📫 How to reach me **cindyvalencia1588@gmail.com**
 
+Know about my experiences [https://www.canva.com/design/DAGoU1uNkVA/OBIb2NNUjJv9k2JMyc_jKw/view?utm_content=DAGoU1uNkVA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5956eb5021](https://www.canva.com/design/DAGoU1uNkVA/OBIb2NNUjJv9k2JMyc_jKw/view?utm_content=DAGoU1uNkVA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5956eb5021)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/cindy-valencia-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cindy-valencia-" height="30" width="40" /></a>
