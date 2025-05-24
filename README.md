@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cindy Valencia</h1>
 
-- 🔭 I’m currently working on **iOS NewsApp**
+🔭 I’m currently working on **iOS NewsApp**
 
-- 🌱 I’m currently learning **JakartaEE and iOS Mobile Development**
+🌱 I’m currently learning **JakartaEE and iOS Mobile Development**
 
-- 📫 How to reach me **cindyvalencia1588@gmail.com**
+📫 How to reach me **cindyvalencia1588@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +37,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <!--Figma-->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <!--JakartaEE-->
+  <img src="https://github.com/dyolin/dyolin/blob/main/images/JakartaEE.png?raw=true" alt="JakartaEE" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyolin&show_icons=true&locale=en&layout=compact" alt="dyolin" /></p>
