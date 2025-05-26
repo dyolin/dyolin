@@ -6,9 +6,9 @@
 
 📫 How to reach me **cindyvalencia1588@gmail.com**
 
-👨‍💻 My best projects are available at <a href="https://cindyvalencia-dyolin.my.canva.site/" target="_blank">My Works</a>
+👨‍💻 My best projects are available at <a href="https://www.canva.com/design/DAGoRzuphn0/OPdSVCvmMwyBt7iA_Z6lJw/view?utm_content=DAGoRzuphn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf7622fc332" target="_blank">My Works</a>
 
-📄 Know about my experiences <a href="https://www.canva.com/design/DAGoU1uNkVA/OBIb2NNUjJv9k2JMyc_jKw/view?utm_content=DAGoU1uNkVA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5956eb5021" target="_blank">My CV</a>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/19HM1M18zQ3Dgzx7slgW6pP8mbqkcfXsK/view?usp=sharing" target="_blank">My CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,12 +35,16 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   <!--Firebase-->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <!--MySQL-->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <!--SQL Server-->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <!--phpMyAdmin-->
   <img src="https://github.com/dyolin/dyolin/blob/main/images/phpMyAdmin.png?raw=true" alt="JakartaEE" width="40" height="40"/>
   <!--MongoDB-->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <!--Oracle-->
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
   <!--Figma-->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <!--JakartaEE-->
