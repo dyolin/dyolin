@@ -8,7 +8,7 @@
 
 👨‍💻 My best projects are available at <a href="https://www.canva.com/design/DAGoRzuphn0/OPdSVCvmMwyBt7iA_Z6lJw/view?utm_content=DAGoRzuphn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf7622fc332" target="_blank">My Works</a>
 
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1n-OUfxhmKS5mxsRDxlVaeR_lUV3t7T7Q/view?usp=drive_link" target="_blank">My CV</a>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1aZClv9qwpcdotht4L-lfbWYegql7VBOq/view?usp=sharing" target="_blank">My CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
