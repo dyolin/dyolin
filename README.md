@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cindy Valencia</h1>
 
-🔭 I’m currently working on **iOS NewsApp**
+🔭 I’m currently working on **Ruang Seduh Website and iOS Book Summary Application**
 
 🌱 I’m currently learning **JakartaEE and iOS Mobile Development**
 
