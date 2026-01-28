@@ -2,7 +2,7 @@
 
 💡 I’m currently working on my graduation thesis project, **Batik Pattern Recognition System**
 
-🌱 I’m currently learning **JakartaEE and iOS Mobile Development**
+🌱 I’m currently learning **Android Development and Machine Learning**
 
 🙌 How to reach me **cindyvalencia1588@gmail.com**
 
