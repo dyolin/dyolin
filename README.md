@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cindy Valencia</h1>
 
-🔭 I’m currently working on **Ruang Seduh Website and iOS Book Summary Application**
+💡 I’m currently working on my graduation thesis project, **Batik Pattern Recognition System**
 
 🌱 I’m currently learning **JakartaEE and iOS Mobile Development**
 
-📫 How to reach me **cindyvalencia1588@gmail.com**
+🙌 How to reach me **cindyvalencia1588@gmail.com**
 
-👨‍💻 My best projects are available at <a href="https://www.canva.com/design/DAGoRzuphn0/OPdSVCvmMwyBt7iA_Z6lJw/view?utm_content=DAGoRzuphn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf7622fc332" target="_blank">My Works</a>
+🧩 My best projects are available at <a href="https://www.canva.com/design/DAGoRzuphn0/OPdSVCvmMwyBt7iA_Z6lJw/view?utm_content=DAGoRzuphn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf7622fc332" target="_blank">My Works</a>
 
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1TXTH3sZ3nvQq2K274fMfygAb94JYTvoo/view?usp=drivesdk" target="_blank">My CV</a>
+🚀 Know about my experiences <a href="https://drive.google.com/file/d/1TXTH3sZ3nvQq2K274fMfygAb94JYTvoo/view?usp=drivesdk" target="_blank">My CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
