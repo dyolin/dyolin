@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cindy Valencia</h1>
 
-💡 I’m currently working on my graduation thesis project, **Batik Pattern Recognition System**
+💡 I’m a fresh graduate of Informatics Major
 
-🌱 I’m currently learning **Android Development and Machine Learning**
+🌱 I’m currently looking for collaboration opportunities, let me know if you are interested😆
 
 🙌 How to reach me **cindyvalencia1588@gmail.com**
 
