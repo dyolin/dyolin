@@ -54,9 +54,3 @@
   <!--Arduino-->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyolin&show_icons=true&locale=en&layout=compact" alt="dyolin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyolin&show_icons=true&locale=en" alt="dyolin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyolin&" alt="dyolin" /></p>
